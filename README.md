@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RujulPawar
-- 👀 I have a keen interest in coding
+- 👋 Hi, I am @RujulPawar
+- 👀 I am a aspiring AI engineer
 - 🌱 I am a undergraduate electronics and telecommunication student
 - ✈️ I am a electronics and marketing member at my college aerodesign team
 
