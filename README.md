@@ -1,7 +1,7 @@
 - 👋 Hi, I am @RujulPawar
-- 👀 I am a aspiring AI engineer
-- 🌱 I am a undergraduate electronics and telecommunication student
-- ✈️ I am a electronics and marketing member at my college aerodesign team
+- 👀 I'm an aspiring Artificial Intelligence and Web Development engineer
+- 🌱 I'm an undergraduate Electronics and Telecommunication student
+- ✈️ I'm a member of the Electronics and Marketing team in my college’s aerodesign team
 
 <!---
 RujulPawar/RujulPawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
