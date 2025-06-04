@@ -1,5 +1,4 @@
 - 👋 Hi, I am @RujulPawar
-- 👀 I'm an aspiring Artificial Intelligence and Web Development engineer
 - 🌱 I'm an undergraduate Electronics and Telecommunication student
 - ✈️ I'm a member of the Electronics and Marketing team in my college’s aerodesign team
 
